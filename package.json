@@ -14,7 +14,7 @@
   "dependencies": {
     "bigint-money": "^1.1.1",
     "chai": "^4.2.0",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "typescript": "^3.8.3"
   },
   "devDependencies": {
